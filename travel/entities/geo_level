@@ -1,0 +1,36 @@
+{
+  "request": {
+    "id": "ec3e1a26-21f7-11e8-b467-0ed5f89f718b",
+    "requestor": "ec3e1cc4-21f7-11e8-b467-0ed5f89f718b",
+    "charset": "UTF-8",
+    "date": "2018-03-06T15:29:55.000+0000",
+    "accept": "application/json",
+    "accept-language": "en-US"
+  },
+  "response": {
+    "entity": {
+      "entityName": "GEO_TYPE",
+      "entityId": "ec3e1f44-21f7-11e8-b467-0ed5f89f718b",
+      "version": "0.1.0"
+    },
+    "data": {
+      "id": "ec3e1e0e-21f7-11e8-b467-0ed5f89f718b",
+      "lastUpdatedDate": "2018-03-06T15:29:55.000+0000",
+      "creationDate": "2018-03-06T15:29:55.000+0000",
+      "createdBy": "ec3e2070-21f7-11e8-b467-0ed5f89f718b",
+      "lastUpdatedBy": "ec3e239a-21f7-11e8-b467-0ed5f89f718b",
+      "geolevel": "CITY",
+      "state": "London",
+      "country": "United Kingdom",
+      "timezone": "Europe/London",
+      "city": "London",
+      "formattedAddress": "London, UK",
+      "tags": [],
+      "IATACode": "LHR",
+      "geoCode": {
+        "latitude": "51.50294",
+        "longitude": "-0.11381"
+      }
+    }
+  }
+}
